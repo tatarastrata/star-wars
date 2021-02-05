@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/star-wars/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/star-wars/static/js/main.6a2cb1f4.chunk.js",
-    "main.js.map": "/star-wars/static/js/main.6a2cb1f4.chunk.js.map",
-    "runtime-main.js": "/star-wars/static/js/runtime-main.01c99f8b.js",
-    "runtime-main.js.map": "/star-wars/static/js/runtime-main.01c99f8b.js.map",
-    "static/js/2.ff3adaab.chunk.js": "/star-wars/static/js/2.ff3adaab.chunk.js",
-    "static/js/2.ff3adaab.chunk.js.map": "/star-wars/static/js/2.ff3adaab.chunk.js.map",
-    "static/js/3.d15c369b.chunk.js": "/star-wars/static/js/3.d15c369b.chunk.js",
-    "static/js/3.d15c369b.chunk.js.map": "/star-wars/static/js/3.d15c369b.chunk.js.map",
+    "main.css": "/star-wars/static/css/main.bab0b925.chunk.css",
+    "main.js": "/star-wars/static/js/main.bf181be3.chunk.js",
+    "main.js.map": "/star-wars/static/js/main.bf181be3.chunk.js.map",
+    "runtime-main.js": "/star-wars/static/js/runtime-main.920cf954.js",
+    "runtime-main.js.map": "/star-wars/static/js/runtime-main.920cf954.js.map",
+    "static/css/2.150d169a.chunk.css": "/star-wars/static/css/2.150d169a.chunk.css",
+    "static/js/2.c633af89.chunk.js": "/star-wars/static/js/2.c633af89.chunk.js",
+    "static/js/2.c633af89.chunk.js.map": "/star-wars/static/js/2.c633af89.chunk.js.map",
     "index.html": "/star-wars/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/star-wars/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ff3adaab.chunk.js.LICENSE.txt": "/star-wars/static/js/2.ff3adaab.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/star-wars/static/media/logo.6ce24c58.svg"
+    "static/css/2.150d169a.chunk.css.map": "/star-wars/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.bab0b925.chunk.css.map": "/star-wars/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.c633af89.chunk.js.LICENSE.txt": "/star-wars/static/js/2.c633af89.chunk.js.LICENSE.txt",
+    "static/media/Star_Wars_Logo.dba53346.svg": "/star-wars/static/media/Star_Wars_Logo.dba53346.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.01c99f8b.js",
-    "static/js/2.ff3adaab.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.6a2cb1f4.chunk.js"
+    "static/js/runtime-main.920cf954.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.c633af89.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.bf181be3.chunk.js"
   ]
 }
